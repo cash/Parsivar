@@ -1,7 +1,7 @@
 from setuptools import setup
 
-setup(name='parsivar',
-	  packages=['parsivar-scale'],
+setup(name='parsivar-scale',
+	  packages=['parsivar'],
 	  version='0.2.3',
 	  description='Python library for preprocessing Persian text.',
 	  author='ICT',
